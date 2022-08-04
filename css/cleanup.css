@@ -4,31 +4,32 @@
   }
 
 #wall #tag-2{
-    /* display: none; */
-    width: 0px;
+     display: none;
+    
 }
 
 div#wall #tag-3.slick{
-    width: 0px;
+    display: none;
 
 }
 
 #wall #tag-4 {
-    width: 0px;
+    display: none;
 
 }
 
 div#wall .parent #tag-5.slick{
-    width: 0px;
+    display: none;
 
 }
 
 div#wall div.parent div:last-child div#tag-6 {
-    width: 0px;
+    display: none;
 
 }
 
 body div#wall div.parent div > #tag-7.slick{
+    display: none;
     width: 0px;
 
 }
